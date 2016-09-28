@@ -1,2 +1,7 @@
-# xml-parser
-Parsing XML files in C using libxml2
+DOCUMENTATION
+=============
+
+- Online:
+  * XML tutorial: http://www.w3schools.com/xml/
+  * LibXML tutorial: https://github.com/GNOME/libxml2/blob/master/doc/tutorial/xmltutorial.pdf
+  
