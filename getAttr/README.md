@@ -1,8 +1,3 @@
-#Prerequisites#
-- Install libxml2 library:
- * sudo apt-get install libxml2-dev
- * sudo apt-get install libxml2
- 
 #Building#
 
 - Build GitHub code:
@@ -11,4 +6,4 @@
   * make all
 
 - Run
-  * ./getAttr story.xml <Sample xml file>
+  * ./getAttr story.xml [Sample xml file]
