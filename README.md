@@ -7,7 +7,9 @@ Documentation
 Prerequisites
 =============
 
-- Install libxml2 library:
- * sudo apt-get install libxml2-dev
- * sudo apt-get install libxml2
+- libxml2 library
+```
+$ sudo apt-get install libxml2-dev
+$ sudo apt-get install libxml2
+ ```
   
