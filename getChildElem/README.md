@@ -5,7 +5,7 @@
 # make all
 ```
 
-- Run
+### Run
 ```
 # ./getChildElem story.xml [Sample xml file]
 ```
